@@ -1,5 +1,3 @@
-/* Author: Sam McEvoy
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
